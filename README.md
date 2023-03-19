@@ -10,3 +10,5 @@ By performing these three steps below, we can create a Credit Risk Analysis Repo
 --Predicting a Logistic Regression Model with Resampled Training Data
 
 In addition, we can determine whether or not the model is an accurate model to predict the creditworthiness of borrowers.
+
+The report file contains a more detailed description of our results.
